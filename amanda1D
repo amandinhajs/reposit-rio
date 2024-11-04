@@ -1,0 +1,133 @@
+Pular para o conteúdo
+Menu de navegação
+
+Produto
+
+Soluções
+
+Recursos
+
+Código aberto
+
+Empresa
+Preços
+
+Entrar
+Inscrever-se
+alura-cursos
+/
+aluraflix
+Público
+bifurcado de giullianacestari/aluraflix
+Código
+Solicitações de pull
+45
+Ações
+Projetos
+Segurança
+Percepções
+Comprometer-se
+aula8
+ aula8
+@giullianacestari
+giullianacestari de autoria em 21 de maio 
+1 pai 1f087de
+cometer fe13d35
+Mostrando 1 arquivo alterado com 2 adições e 2 exclusões .
+  4 mudanças: 2 adições e 2 exclusões4 
+índice.html
+Número da linha do arquivo original	Número da linha de diferença	Mudança de linha diferencial
+@@ -7,11 +7,11 @@
+    < ligação
+        href =" https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap "
+        rel =" folha de estilo " >
+    < título > Aluraflix </ título >
+    < título > Guiminamflix </ título >
+</ cabeça >
+
+< corpo >
+    < cabeçalho > ALURAFLIX </ cabeçalho >
+    < cabeçalho > GUIMINAMFLIX ​​</ cabeçalho >
+
+    < seção  class =" chamada " >
+        < div  class =" chamada-texto " >
+            < h1 > ATRAVÉS DO ARANHAVERSO </ h1 >
+            < p > #homem-aranha </ p >
+        </div>​​
+        < div >
+            < iframe  largura =" 560 " altura =" 315 " src =" https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE "
+                título =" Reprodutor de vídeo do YouTube " frameborder =" 0 "
+                permitir =" acelerômetro; reprodução automática; gravação na área de transferência; mídia criptografada; giroscópio; imagem em imagem; compartilhamento na web "
+                referrerpolicy =" origem-estrita-quando-origem-cruzada " allowfullscreen > </ iframe >
+        </div>​​
+    </ seção >
+    < seção  classe =" categoria " >
+        < h2 > Filmes e séries </ h2 >
+        < div  class =" categoria-videos " >
+            < a  href =" https://www.youtube.com/watch?v=cs15QqG6Gjc " >
+                < img  src =" https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg " />
+            </ a >
+            < a  href =" https://www.youtube.com/watch?v=nCmIwcycUJ8 " >
+                < img  src =" https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg " />
+12 comentários sobre commitfe13d35
+@malvadeza1234
+malvadeza1234 comentou emfe13d35 em 9 de agosto
+que plataforma otima, eu adorei
+
+@brun4mattiazzo
+brun4mattiazzo comentou emfe13d35 em 14 de agosto
+não entendi nada
+
+@RataoDoGas
+RataoDoGas comentou emfe13d35 em 14 de agosto
+faz o L
+
+@eugerio
+eugerio comentou emfe13d35 em 4 de setembro
+deveria ser mais detalhado
+
+@Sthefannysehn
+Sthefannysehn comentou emfe13d35 em 1 de outubro
+Qual foi o bagulho???
+
+@Sausex398
+Sausex398 comentou emfe13d35 3 semanas atrás
+Nossa consegui um BO era melhor se fosse direto ao ponto sem enrolar e explicar rapidamente como funciona
+
+@tchubwgh
+tchubiwgh comentou emfe13d35 2 semanas atrás
+o que é isso mds eu vou chorar
+
+@nilly16
+nilly16 comentou emfe13d35 2 semanas atrás
+socorro o que é isso
+
+@Barski123
+Barski123 comentou emfe13d35 2 semanas atrás
+não entendi, e ninguém sabe explica ai fica foda .
+
+@felipinhoxzr
+felipinhoxzr comentou emfe13d35 2 semanas atrás
+n entendi nada que odio desses cara veih passei vi tudo mais 3 vezes en entendi nada dessa jirosca
+
+@Ryan1111A
+Ryan1111A comentou emfe13d35 2 semanas atrás
+todos vamos morrer
+
+@casanova8448
+casanova8448 comentou emfe13d35 4 dias atrás
+EEE ...
+
+Por favor, entre para comentar.
+Rodapé
+© 2024 GitHub, Inc.
+Navegação de rodapé
+Termos
+Privacidade
+Segurança
+Status
+Documentação
+Contato
+Gerenciar cookies
+Não compartilhe minhas informações pessoais
+aula8 · alura-cursos/aluraflix@fe13d35 · GitHub
